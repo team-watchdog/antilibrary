@@ -13,7 +13,7 @@ Available as a notebook that launches a simple web app with a UI. Uses `langchai
 
 Grab `Antilibrary-OpenAI.ipynb` . Save it anywhere and create a folder named `books` - that's where you should put your files. [*] Antilibrary can currently take PDF, DOC, DOCX, TXT, MD and EPUB. 
 
- You'll need an OpenAI API key. In the .ipynb notebook, you'll see `OPENAI_API_KEY = "your openai api key goes here"` - that's where the key goes. [**]
+ You'll need an OpenAI API key. In the .ipynb notebook, you'll see `OPENAI_API_KEY = "your openai api key goes here"` - that's where the key goes. 
 
 Once the key is in, run each section of the notebook.  The last section will open up an interface at the bottom. You can either open the UI in a separate browser tab, or use it directly in the notebook.
 
