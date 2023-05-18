@@ -4,7 +4,7 @@ A little tool that lets you ask questions from your pdfs, epubs, text files and 
 
 Available as a notebook that launches a simple web app with a UI. Uses `langchain` and `gradio` for much of the heavy lifting. 
 
-![enter image description here](https://raw.githubusercontent.com/team-watchdog/antilibrary/main/Screenshot%20from%202023-05-17%2015-29-52.png)
+![enter image description here](https://raw.githubusercontent.com/team-watchdog/antilibrary/main/borges.png)
 
 
 
