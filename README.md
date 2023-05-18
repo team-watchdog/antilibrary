@@ -41,9 +41,10 @@ I built this to explore langchain, so the current version may have a few unresol
 
 # To-do
 
- 1. Clean up dependencies
+ 1. Clean up dependencies and fix borked imports - done
  2. Fully local version using llama.cpp
- 3. Add mobi and csv support 
+ 3. Check epub imports, not sure if they're working properly
+ 4. Add mobi and csv support 
 
 
 
