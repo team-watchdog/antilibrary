@@ -31,7 +31,10 @@ D --the response--> A
 
 ```
 
-I build this to explore langchain, so the current version may have a few unresolved dependencies (small fixes).
+I built this to explore langchain, so the current version may have a few unresolved dependencies (small fixes). Please note that because of how it does search, it's limited to direct and detailed questions; generic questions won't be of much use, and it won't act like a chatbot. 
+
+![enter image description here](https://raw.githubusercontent.com/team-watchdog/antilibrary/main/Screenshot%20from%202023-05-18%2014-20-14.png)
+
 
 [*] if you're running in a Google Collab, you can replace /books with a Drive folder of your choice. 
 
